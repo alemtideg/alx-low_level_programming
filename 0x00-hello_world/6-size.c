@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print the size of variables
+ * main - print the size of variabels
  *
  * Return: 0
  */
@@ -9,18 +9,10 @@ int main(void)
 {
 	char a;
 	int b;
-	long int c;
-	short int d;
-	float e;
-	unsigned char f;
+	float c;
 
-	printf("size of a char: %2d byte(s) \n", sizeof(a));
-	printf("size of an int: %2d byte(s) \n", sizeof(b));
-        printf("size of along int: %2d byte(s) \n", sizeof(c));  
-        printf("size of a short int: %2d byte(s) \n", sizeof(d));   	
-        printf("size of an float: %2d byte(s) \n", sizeof(e));
-	printf("size of an unsigned char: %2d byte(s) \n", sizeof(f));   
+	printf("size of a char: %d byte(s)\n", sizeof(a));
+	printf("size of an int: %d byte(s)\n", sizeof(b));
+	printf("size of a float: %d byte(s)\n", sizeof(c));
 	return (0);
 }
-
-
