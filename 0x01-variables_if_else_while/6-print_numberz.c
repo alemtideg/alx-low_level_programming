@@ -7,12 +7,12 @@
  * this program prints "single digit base 10
  * Return: 0
  */
-int main()
+int main(void)
 {
 int dig;
 for (dig = 0; dig < 10; dig++)
 	putchar((dig % 10) + '0');
 }
-putchar("\n");
+putchar('\n');
 return (0);
 }
