@@ -4,7 +4,7 @@
  * print - print the alphabetical order
  *
  * Description: main function
- * this program prints 'programming of lower case execpt q and e
+ * this program prints "programming of lower case execpt q and e
  * Return: 0
  */
 int main(void)
