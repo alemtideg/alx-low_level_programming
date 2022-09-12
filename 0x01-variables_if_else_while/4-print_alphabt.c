@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * print - print the alphabetical order
+ * main - print the lower case alphabet
  *
  * Description: main function
- * this program prints "programming of lower case execpt q and e
+ * this program prints "programing of lower case except e and q
  * Return: 0
  */
 int main(void)
