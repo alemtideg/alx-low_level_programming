@@ -2,12 +2,15 @@
 #include <unistd.h>
 
 /**
- * main - print the size of variables
+ * main - print function
  *
- * return: 1
+ * Description: main function
+ * this programprints "programming of peice of art
+ * Return: Always 1.
  */
 int main(void)
 {
-	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 58);
+	write(2,
+		"and that piece of art is useful\n" - Dora Korpar, 2015-10-19", 58);
 	return (1);
 }
