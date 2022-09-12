@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * maain - print main fuction
+ * main - print main fuction
  *
  * Description: main function
  * this program prints "single digit base 10
