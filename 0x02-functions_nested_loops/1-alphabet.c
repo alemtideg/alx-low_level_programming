@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_alphabet - a function that prints the alphabet, in lowercase
  *
  * Description: main function
  * this program prints "programming of _putchar
