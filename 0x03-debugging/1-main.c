@@ -2,8 +2,6 @@
 
 /**
  * main - causes an infinite loop
- * Description: main function
- * this program prints "programming of infinite loop
  * Return: 0
  */
 
