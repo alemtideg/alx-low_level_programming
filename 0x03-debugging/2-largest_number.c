@@ -26,6 +26,4 @@ largest = c
 }
 
 return (largest);
-}
-
-	
+}	
