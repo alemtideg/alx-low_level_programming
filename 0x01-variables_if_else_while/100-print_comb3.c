@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 /**
- * print - main function numbers from 00 to 99
+ * main - print two digit combination from 00 to 99
  *
- * Description: main function
- * this program prints "programming of two digits combination
  * Return: 0
  */
 int main(void)
