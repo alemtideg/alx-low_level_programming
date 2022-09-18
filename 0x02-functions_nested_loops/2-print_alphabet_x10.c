@@ -3,7 +3,7 @@
 /**
  * print_alphabet_x10 - a function that prints 10 times the alphabet
  *
- * Return: x10 a-z
+ * Return: x10 a-iz
  */
 void print_alphabet_x10(void)
 {
@@ -18,6 +18,7 @@ void print_alphabet_x10(void)
 			_putchar(c);
 		}
 		l++;
+
 		_putchar('\n');
 	}
 }
