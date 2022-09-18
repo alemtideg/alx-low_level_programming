@@ -20,13 +20,13 @@ int main(void)
 				putchar((num3 % 10) + '0');
 				
 				if (num1 == 9 && num2 == 9 && num3 == 9)
-					continu;
+					continue;
 				putchar(',');
 				putchar(' ');
 			}
 		}
 	}
-	purchar('\n');
+	putchar('\n');
 	return (0);
 }
 
