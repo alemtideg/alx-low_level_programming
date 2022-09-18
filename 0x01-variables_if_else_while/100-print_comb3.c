@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * print - main function
+ * print - main function numbers from 00 to 99
  *
  * Return: 0
  */
