@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
- * _pust - print strings followed by new line
+ * _puts - print strings followed by new line
+ * @str - prints the string
  *
  * Return: 0
  */
