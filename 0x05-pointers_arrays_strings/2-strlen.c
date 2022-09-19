@@ -2,7 +2,6 @@
 
 /**
  * _strlen - returns the length of strings
- * @c:i
  * @s: string legnth
  * Return: 0
  */
