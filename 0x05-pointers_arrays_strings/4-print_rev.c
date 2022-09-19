@@ -12,6 +12,6 @@ void print_rev(char *s)
 	while (s[index++])
 		c++;
 	for (index = c - 1; index >= 0; index--)
-		putchar(s[index]);
+		_putchar(s[index]);
 	putchar('\n');
 }
