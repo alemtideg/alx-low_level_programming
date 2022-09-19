@@ -12,5 +12,5 @@ int _strlen(int *s)
 
 	 while(*(s+c) != '\0')
 		 c++;
-	 return c;
+	 return (c);
 }
