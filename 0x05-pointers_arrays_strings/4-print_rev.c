@@ -7,10 +7,10 @@
  */
 void print_rev(char *s)
 {
-	int c = strc(s);
+	int len = strlen(s);
 
-	while (c--)
+	while (len--)
 
-putchar(*(s + c));
-putchar(10);
+putchar(*(s + len));
+_putchar(10);
 }
