@@ -8,6 +8,7 @@
  * Return: 0
  */
 int main(void)
+{
 	int pass, sum;
 
 	srand(time(NULL));
