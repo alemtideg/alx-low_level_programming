@@ -11,7 +11,7 @@
 		int index, half;
 
 	index = 0;
-	while (str[index] ! = '\0')
+	while (str[index] != '\0')
 		index++;
 
 	half = index/2;
@@ -22,6 +22,6 @@
 		_putchar(str[half]);
 		half++;
 	}
-	_putchar('\n')
+	_putchar('\n');
 }
 
