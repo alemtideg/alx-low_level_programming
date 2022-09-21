@@ -11,7 +11,7 @@ void puts2(char *str)
 	while (str[index++])
 		c++;
 	for (index = 0; index < c; index += 2)
-		putchar(str[index]);
+		_putchar(str[index]);
 
 	_putchar('\n');
 }
