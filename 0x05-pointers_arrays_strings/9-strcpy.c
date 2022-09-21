@@ -3,7 +3,7 @@
 /**
  * _strcpy - src string copy
  *
- * @dset: dest
+ * @dest: dest
  * @src: src
  * Return: 0
  */
@@ -16,6 +16,7 @@ char *_strcpy(char *dest, char *src)
 		dest[index] = src[index];
 		index++;
 	}
+
 	return (dest);
 }
 
