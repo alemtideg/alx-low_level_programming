@@ -6,7 +6,7 @@
  */
 void puts2(char *str)
 {
-	int index = 0, c =0;
+	int index = 0, c = 0;
 
 	while (str[index++])
 		c++;
