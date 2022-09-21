@@ -16,9 +16,8 @@
 
 	half = index / 2;
 
-	if (index % 2 == 2)
+	if (index % 2 == 1)
 		half++;
-
 	while (half < index)
 	{
 		_putchar(str[half]);
