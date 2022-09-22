@@ -1,10 +1,10 @@
-#ifndef MY_HEADER_FILE_H 
+#ifndef MY_HEADER_FILE_H  
 #define MY_HEADER_FILE_H
 
 /**
  *  main - header file for prototype
  *  void prototypes (void)
- *  int prototypes (int)    
+ *  int prototypes (int)  
  */
 int _putchar(char c);
 char *_strncat(char *dest, char *src, int n);
