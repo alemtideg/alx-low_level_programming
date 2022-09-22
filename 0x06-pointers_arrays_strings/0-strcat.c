@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _strcat - concetenate two strings
+ * strcat - concetenate two strings
  * @dest: dest
  * @src: src
- * Returns: a pointer to the resulting string dest
+ * Return: a pointer to the resulting string dest
  */
 char *strcat(char *dest, char *src)
 {
