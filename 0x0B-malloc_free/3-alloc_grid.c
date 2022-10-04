@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * alloc_grid - Write a function that returns a pointer to a 2 dimensional array 
+ * alloc_grid - a function that returns pointer 2D array
  * @height: heiht of array
  * @width: width of array
  *
