@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stddef.h>
+#include <stdlib.h>
 
 /**
  * alloc_grid - Write a function that returns a pointer to a 2 dimensional array of integers
@@ -27,7 +29,7 @@ int **alloc_grid(int width, int height)
 			}
 			else
 			{
-				while (i > = 0)
+				while (i >= 0)
 				{
 					free array[i];
 					i--;
