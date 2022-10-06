@@ -1,10 +1,11 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stddef.h>
 
 /**
  * string_nconcat - Write a function that concatenates two strings.
  * @s1: strin one
- * @s2:tring two
+ * @s2: string two
  * @n: size of byte
  * Return: NULL if the function fails otherwise to a pointer
  */
