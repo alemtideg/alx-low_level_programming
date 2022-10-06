@@ -1,4 +1,4 @@
-#ifndef MY_HEADER_FILE_H                                                                                                                 
+#ifndef MY_HEADER_FILE_H                                                      
 #define MY_HEADER_FILE_H 
 
 /**
@@ -20,3 +20,4 @@ void print_square(int size);
 void print_triangle(int);
 
 #endif
+
