@@ -1,6 +1,12 @@
 #ifndef dog_h
 #ifndef dog_h
 
+/*
+ * file: dog.h
+ * Auth: alemtideg
+ * Describtion: header
+ */
+
 /**
  * struct - dog a new type 
  * @name: the name of the dog
