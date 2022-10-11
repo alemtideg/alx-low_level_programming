@@ -1,5 +1,5 @@
 #ifndef dog_h
-#ifndef dog_h
+#define dog_h
 
 /*
  * file: dog.h
@@ -31,4 +31,3 @@ dog_t *new_dog(char *name, float age, char *owner);
 void free_dog(dog_t *d);
 
 #endif
-
