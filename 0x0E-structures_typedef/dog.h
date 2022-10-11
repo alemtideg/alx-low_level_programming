@@ -8,7 +8,7 @@
  */
 
 /**
- * struct - dog a new type 
+ * struct dog - dog type
  * @name: the name of the dog
  * @age: age of the dog
  * @owner: owner of the dog
