@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * main - Write a program that prints the name of the file
- * Return: 0
+ * main - Write a program that prints the name of the file.
+ * Return: 0.
  */
 int main(void)
 {
