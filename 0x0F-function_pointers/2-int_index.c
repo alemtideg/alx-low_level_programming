@@ -6,9 +6,10 @@
  * @array: array
  * @size: size
  * @cmp: cmp
+ *
  * Return: index of the first element 
- * If no element matches, return -1
- * If size <= 0, return -1
+ * if no element matches, return -1
+ * if size <= 0, return -1
  */
 int int_index(int *array, int size, int (*cmp)(int))
 {
