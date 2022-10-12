@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the opcodes 
+ * main - Write a program that prints the opcodes 
  * @argc: argc
  * @argv: argv
  *
