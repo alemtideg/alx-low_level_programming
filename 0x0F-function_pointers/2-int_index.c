@@ -6,7 +6,7 @@
  * @array: array
  * @size: size
  * @cmp: cmp
- * Return: the index of the first element for which the 
+ * Return: return 
  * cmp function does not return 0
  * If no element matches, return -1
  * If size <= 0, return -1
