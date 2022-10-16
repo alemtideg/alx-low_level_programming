@@ -63,11 +63,11 @@ void print_string(va_list arg)
 	printf("%s", str);
 }
 /**
- *  print_all - Prints anything, 
- *  @format: A string of character
- *  @...: A variable number of
+ * print_all - Prints anything, 
+ * @format: A string of character
+ * @...: A variable number of
  *
- *  Description: Any argument not of type
+ * Description: Any argument not of type
  */
 void print_all(const char * const format, ...)
 {
