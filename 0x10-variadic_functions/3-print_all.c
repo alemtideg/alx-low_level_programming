@@ -61,7 +61,7 @@ void print_string(va_list arg)
 	}
 
 	printf("%s", str);
-}
+	
 /**
  * print_all - Prints anything, 
  * @format: A string of character
