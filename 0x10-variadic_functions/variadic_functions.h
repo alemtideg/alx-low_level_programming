@@ -1,6 +1,6 @@
 #ifndef ALEMT_H  
-#define ALEMT_H  
-#include <stdlib.h>  
+#define ALEMT_H
+
 #include <stdarg.h>
 
 int _putchar(char c);
